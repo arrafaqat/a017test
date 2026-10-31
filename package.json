@@ -1,0 +1,1 @@
+{"name":"hostingo-node-deployment-test","private":true,"scripts":{"start":"node server.mjs"},"engines":{"node":">=20"}}
